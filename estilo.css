@@ -5,6 +5,7 @@
 body {
             margin: 0px; /* margem externa */
             padding: 0px; /* margem interna */
+            background: linear-gradient(180deg, red 20%, blue 30%);
         }
         
         /* navegação principal */
